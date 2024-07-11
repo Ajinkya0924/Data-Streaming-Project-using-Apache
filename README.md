@@ -9,7 +9,7 @@ The project is designed with the following components:
 - **Apache Spark**: For data processing with its master and worker nodes.
 - **Cassandra**: Where the processed data will be stored.
 
-##What I did
+## What I did
 
 - Setting up a data pipeline with Apache Airflow
 - Real-time data streaming with Apache Kafka
